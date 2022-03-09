@@ -1,0 +1,10 @@
+.row .col-md-5{
+	border: solid whitesmoke 1px;
+	box-shadow: black 10px;
+	height: 40px;
+}
+.row .col-md-6{
+	border: solid whitesmoke 1px;
+	box-shadow: black 10px;
+	height: 40px;
+}

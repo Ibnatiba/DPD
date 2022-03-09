@@ -1,0 +1,32 @@
+#a{
+background-color: whitesmoke;
+padding-top:30px;
+padding-left: 200px;
+padding-bottom: 30px;
+}
+#a img{
+	border-radius: 25px;
+	margin-left: 20px;
+	margin-bottom: 40px;
+}
+.bg-danger hr{
+	/*color: whitesmoke;*/
+	background-color: whitesmoke;
+}
+.text hr{
+/*	color: red;*/
+	background-color: red;
+}
+.text .row .col-md-4 img{
+	border-radius: 250px;
+/*	margin-left: 80px;
+*/}
+	.text{
+	background-color: lightpink;
+	}
+	.bg-white hr{
+		background-color: red;
+	}
+	.bg-danger{
+		height: 250px;
+	}
